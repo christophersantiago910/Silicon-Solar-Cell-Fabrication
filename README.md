@@ -44,8 +44,14 @@ The experimental design unexpectedly showed reduced efficiency due to:
 - Mask design trade-offs between shading losses and resistive losses
 
 ## Pictures
-![Figure 1](pictures/IMG_2864.jpg)
-**Figure 1.** Experimental silicon solar cell.
+![Figure 1](pictures/controlled_solar_cell.jpg)
+**Figure 1.** Controlled silicon solar cell.
 
 ![Figure 2](pictures/IMG_2897.jpg)
 **Figure 2.** Photomask used for the experimental solar cell. 
+
+![Figure 3](pictures/IMG_2864.jpg)
+**Figure 3.** Experimental silicon solar cell.
+
+![Figure 4](pictures/experimental_solar_cell.jpg)
+**Figure 4.** Experimental silicon solar cell.
