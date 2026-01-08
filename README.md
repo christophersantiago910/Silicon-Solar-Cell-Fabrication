@@ -42,3 +42,10 @@ The experimental design unexpectedly showed reduced efficiency due to:
 - Junction depth calculated using diffusion equations
 - IV curve behavior linked to fabrication defects
 - Mask design trade-offs between shading losses and resistive losses
+
+## Pictures
+![Figure 1](pictures/IMG_2864.jpg)
+**Figure 1.** Experimental silicon solar cell.
+
+![Figure 2](pictures/IMG_2897.jpg)
+**Figure 2.** Photomask used for the experimental solar cell. 
